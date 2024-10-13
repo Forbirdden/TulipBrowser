@@ -2,7 +2,7 @@
   "name": "TulipBrowser",
   "version": "1.0.0",
   "description": "The browser that doesn't remember anything!",
-  "main": "./BrowserLoader/loader.js",
+  "main": "/BrowserLoader/loader.js",
   "scripts": {
     "start": "electron ."
   },
