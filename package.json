@@ -1,5 +1,5 @@
 {
-  "name": "SimpleCalculator",
+  "name": "TulipBrowser",
   "version": "1.0.0",
   "description": "The browser that doesn't remember anything!",
   "main": "./BrowserLoader/loader.js",
