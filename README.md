@@ -9,7 +9,7 @@ Tulip is protecting you from Deep Packet Inspection
 
 Our browser contains:
 
-[CookieBlock[(https://github.com/dibollinger/CookieBlock)
+[CookieBlock](https://github.com/dibollinger/CookieBlock)
 
 [NoScript](https://github.com/hackademix/noscript)
 
