@@ -6,7 +6,7 @@ on:
       - v*
   pull_request:
     branches:
-      - electron-v3
+      - main
   workflow_dispatch:
 
 jobs:
