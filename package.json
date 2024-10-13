@@ -1,0 +1,25 @@
+{
+  "name": "TulipBrowser",
+  "version": "1.0.0",
+  "description": "The browser that doesn't remember anything!",
+  "main": "./BrowserLoader/loader.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Forbirdden/TulipBrowser",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-builder": "^23.6.0"
+  }
+}
+}
+}
