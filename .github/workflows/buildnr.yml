@@ -30,7 +30,7 @@ jobs:
         uses: samuelmeuli/action-electron-builder@v1.6.0 
         
       - name: Download Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: maven-web-application
           path: /opt
