@@ -1,0 +1,72 @@
+/*
+This CSS is based on the Consent-O-Matic addon by, released under the MIT License.
+Copyright (c) 2019 Janus Bager Kristensen, Rolf Bagge, CAVI
+
+Adapted and updated by Dino Bollinger, 2021-2022
+
+Released under the MIT License, see included LICENSE file.
+*/
+body, html {
+  padding: 0;
+  user-select: text;
+  margin: 0;
+
+}
+body {
+  display: flexbox;
+  min-width: 20em;
+  max-width: 20em;
+  background: radial-gradient(ellipse, rgb(12, 72, 129), rgb(2, 1, 42));
+  color: white;
+  border-radius: 0.5em;
+  padding: 1.5em;
+}
+
+button {
+  width: 100%;
+  padding: 0.10em;
+  margin: 0.2em 0;
+  margin-top: 1.em;
+  font-size: large;
+  text-align: center;
+}
+
+.titlebox {
+  display: flex;
+  width: 100%;
+  font-size: 1.25em;
+  font-weight: 800;
+  align-items: center;
+}
+
+.logo {
+  float: left;
+  width: 2.25em;
+  height: 2.25em;
+}
+
+.title {
+  margin-left: .75em;
+  margin-bottom: .25em;
+
+}
+
+.error {
+  color:red;
+  font-weight: 600;
+}
+
+#pause-div {
+  padding-top: 0.75em;
+}
+
+#pause-desc {
+  padding-left: 0.75em;
+  font-weight: 500;
+}
+
+
+#desc-box {
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
