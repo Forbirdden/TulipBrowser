@@ -12,5 +12,3 @@ Our browser contains:
 [CookieBlock](https://github.com/dibollinger/CookieBlock)
 
 [NoScript](https://github.com/hackademix/noscript)
-
-[ByeDPI](https://github.com/hufrea/byedpi)
